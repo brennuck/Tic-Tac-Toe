@@ -1,0 +1,23 @@
+* {
+    font-family: 'Sintony', sans-serif;
+}
+
+.Title {
+    display: flex;
+    justify-content: center;
+}
+
+.details {
+    width: "200px";
+	margin: "20px auto";
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    margin: 2px;
+}
